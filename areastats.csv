@@ -1,0 +1,258 @@
+"areaname","depth","records","species"
+"Adriatic Sea","<200",83582,2514
+"Adriatic Sea",">1000",2599,264
+"Adriatic Sea","200-1000",5489,501
+"Aegean Sea","<200",31910,2090
+"Aegean Sea",">1000",2271,200
+"Aegean Sea","200-1000",5323,1081
+"Alboran Sea","<200",1017,340
+"Alboran Sea",">1000",3402,147
+"Alboran Sea","200-1000",1174,242
+"Andaman or Burma Sea","<200",3639,1400
+"Andaman or Burma Sea",">1000",9419,3339
+"Andaman or Burma Sea","200-1000",419,190
+"Arabian Sea","<200",17677,1931
+"Arabian Sea",">1000",74067,1540
+"Arabian Sea","200-1000",13601,540
+"Arafura Sea","<200",48095,3179
+"Arafura Sea",">1000",98,60
+"Arafura Sea","200-1000",1894,371
+"Arctic Ocean","<200",7607,791
+"Arctic Ocean",">1000",58800,854
+"Arctic Ocean","200-1000",14267,741
+"Baffin Bay","<200",644,121
+"Baffin Bay",">1000",2292,162
+"Baffin Bay","200-1000",5192,173
+"Balearic (Iberian Sea)","<200",30984,1534
+"Balearic (Iberian Sea)",">1000",1991,230
+"Balearic (Iberian Sea)","200-1000",7029,403
+"Bali Sea","<200",506,193
+"Bali Sea",">1000",56,52
+"Bali Sea","200-1000",183,101
+"Baltic Sea","<200",535762,1371
+"Baltic Sea","200-1000",47780,256
+"Banda Sea","<200",7277,1792
+"Banda Sea",">1000",1300,389
+"Banda Sea","200-1000",3099,727
+"Barentsz Sea","<200",72360,1429
+"Barentsz Sea","200-1000",36283,1464
+"Bass Strait","<200",292208,4615
+"Bass Strait",">1000",433,180
+"Bass Strait","200-1000",1241,450
+"Bay of Bengal","<200",7462,1866
+"Bay of Bengal",">1000",12901,1712
+"Bay of Bengal","200-1000",1761,323
+"Bay of Biscay","<200",183794,1637
+"Bay of Biscay",">1000",12637,1026
+"Bay of Biscay","200-1000",8486,516
+"Bay of Fundy","<200",72651,2251
+"Bay of Fundy","200-1000",593,146
+"Beaufort Sea","<200",36203,780
+"Beaufort Sea",">1000",1526,104
+"Beaufort Sea","200-1000",1916,273
+"Bering Sea","<200",56887,1167
+"Bering Sea",">1000",8612,525
+"Bering Sea","200-1000",9748,606
+"Bismarck Sea","<200",8969,2008
+"Bismarck Sea",">1000",1139,400
+"Bismarck Sea","200-1000",3767,1175
+"Black Sea","<200",160099,2840
+"Black Sea",">1000",51891,608
+"Black Sea","200-1000",11420,310
+"Bristol Channel","<200",75111,1629
+"Caribbean Sea","<200",108825,4759
+"Caribbean Sea",">1000",52967,2533
+"Caribbean Sea","200-1000",18672,1704
+"Celebes Sea","<200",3054,789
+"Celebes Sea",">1000",1031,367
+"Celebes Sea","200-1000",595,184
+"Celtic Sea","<200",249354,3291
+"Celtic Sea",">1000",6564,621
+"Celtic Sea","200-1000",8106,642
+"Ceram Sea","<200",553,313
+"Ceram Sea",">1000",177,142
+"Ceram Sea","200-1000",281,126
+"Chukchi Sea","<200",6417,504
+"Coral Sea","<200",349832,13694
+"Coral Sea",">1000",21033,3107
+"Coral Sea","200-1000",40031,5362
+"Davis Strait","<200",10216,907
+"Davis Strait",">1000",5481,280
+"Davis Strait","200-1000",20406,599
+"East Siberian Sea","<200",1245,122
+"Eastern China Sea","<200",44363,2214
+"Eastern China Sea",">1000",7635,414
+"Eastern China Sea","200-1000",12844,944
+"English Channel","<200",562275,3432
+"Flores Sea","<200",1235,417
+"Flores Sea",">1000",75,43
+"Flores Sea","200-1000",632,367
+"Great Australian Bight","<200",36251,3685
+"Great Australian Bight",">1000",6589,726
+"Great Australian Bight","200-1000",6369,852
+"Greenland Sea","<200",6204,809
+"Greenland Sea",">1000",21260,729
+"Greenland Sea","200-1000",7418,767
+"Gulf of Aden","<200",7233,889
+"Gulf of Aden",">1000",42727,653
+"Gulf of Aden","200-1000",23786,260
+"Gulf of Alaska","<200",32005,1158
+"Gulf of Alaska",">1000",3049,249
+"Gulf of Alaska","200-1000",5441,542
+"Gulf of Aqaba","<200",284,174
+"Gulf of Aqaba",">1000",138,63
+"Gulf of Aqaba","200-1000",18,11
+"Gulf of Boni","<200",100,67
+"Gulf of Boni",">1000",1,1
+"Gulf of Boni","200-1000",101,47
+"Gulf of Bothnia","<200",152747,531
+"Gulf of Bothnia","200-1000",5375,177
+"Gulf of California","<200",963,429
+"Gulf of California",">1000",2287,255
+"Gulf of California","200-1000",896,196
+"Gulf of Finland","<200",89183,486
+"Gulf of Guinea","<200",1280,495
+"Gulf of Guinea",">1000",7837,727
+"Gulf of Guinea","200-1000",95,72
+"Gulf of Mexico","<200",552702,11131
+"Gulf of Mexico",">1000",25101,3028
+"Gulf of Mexico","200-1000",24184,4402
+"Gulf of Oman","<200",2313,353
+"Gulf of Oman",">1000",3332,343
+"Gulf of Oman","200-1000",2130,126
+"Gulf of Riga","<200",37083,247
+"Gulf of St. Lawrence","<200",267272,1609
+"Gulf of St. Lawrence","200-1000",78551,783
+"Gulf of Suez","<200",252,108
+"Gulf of Thailand","<200",1268,358
+"Gulf of Tomini","<200",1719,297
+"Gulf of Tomini",">1000",32,24
+"Gulf of Tomini","200-1000",103,66
+"Halmahera Sea","<200",557,261
+"Halmahera Sea",">1000",122,35
+"Halmahera Sea","200-1000",65,49
+"Hudson Bay","<200",5780,578
+"Hudson Bay","200-1000",178,109
+"Hudson Strait","<200",3857,574
+"Hudson Strait","200-1000",4453,314
+"Indian Ocean","<200",269409,12626
+"Indian Ocean",">1000",275304,5907
+"Indian Ocean","200-1000",71303,4612
+"Inner Seas off the West Coast of Scotland","<200",185955,2341
+"Inner Seas off the West Coast of Scotland","200-1000",638,230
+"Ionian Sea","<200",6769,817
+"Ionian Sea",">1000",12935,679
+"Ionian Sea","200-1000",492,176
+"Irish Sea and St. George's Channel","<200",257543,2661
+"Japan Sea","<200",26718,1358
+"Japan Sea",">1000",18978,511
+"Japan Sea","200-1000",6140,565
+"Java Sea","<200",958,372
+"Java Sea",">1000",15,15
+"Java Sea","200-1000",98,77
+"Kara Sea","<200",26524,627
+"Kara Sea","200-1000",5076,335
+"Kattegat","<200",841836,2058
+"Labrador Sea","<200",13257,451
+"Labrador Sea",">1000",19281,463
+"Labrador Sea","200-1000",23833,323
+"Laccadive Sea","<200",12406,2541
+"Laccadive Sea",">1000",17877,2945
+"Laccadive Sea","200-1000",4205,720
+"Laptev Sea","<200",5443,366
+"Laptev Sea",">1000",86,41
+"Laptev Sea","200-1000",362,93
+"Ligurian Sea","<200",79,52
+"Ligurian Sea",">1000",362,98
+"Ligurian Sea","200-1000",49,31
+"Makassar Strait","<200",1981,708
+"Makassar Strait",">1000",265,155
+"Makassar Strait","200-1000",180,120
+"Malacca Strait","<200",2502,585
+"Malacca Strait",">1000",86,36
+"Malacca Strait","200-1000",40,31
+"Mediterranean Sea - Eastern Basin","<200",13834,2385
+"Mediterranean Sea - Eastern Basin",">1000",32977,2484
+"Mediterranean Sea - Eastern Basin","200-1000",15323,1408
+"Mediterranean Sea - Western Basin","<200",68913,2849
+"Mediterranean Sea - Western Basin",">1000",15228,1036
+"Mediterranean Sea - Western Basin","200-1000",6420,776
+"Molukka Sea","<200",2195,437
+"Molukka Sea",">1000",266,193
+"Molukka Sea","200-1000",865,166
+"Mozambique Channel","<200",21836,3698
+"Mozambique Channel",">1000",6663,1008
+"Mozambique Channel","200-1000",5118,875
+"North Atlantic Ocean","<200",1281822,13104
+"North Atlantic Ocean",">1000",854236,10868
+"North Atlantic Ocean","200-1000",230219,8165
+"North Pacific Ocean","",417,13
+"North Pacific Ocean","<200",359057,9105
+"North Pacific Ocean",">1000",304437,7924
+"North Pacific Ocean","200-1000",76892,3899
+"North Sea","<200",1547920,5995
+"North Sea","200-1000",28503,897
+"Norwegian Sea","<200",42127,2118
+"Norwegian Sea",">1000",55637,1454
+"Norwegian Sea","200-1000",85105,2573
+"Persian Gulf","<200",13622,999
+"Philippine Sea","<200",46472,4434
+"Philippine Sea",">1000",113670,1948
+"Philippine Sea","200-1000",13989,2700
+"Red Sea","<200",3071,1116
+"Red Sea",">1000",3041,242
+"Red Sea","200-1000",2926,431
+"Rio de La Plata","<200",225,167
+"Savu Sea","<200",1024,304
+"Savu Sea",">1000",18,10
+"Savu Sea","200-1000",93,53
+"Sea of Azov","<200",3212,127
+"Sea of Marmara","<200",405,82
+"Sea of Marmara",">1000",105,36
+"Sea of Marmara","200-1000",261,7
+"Sea of Okhotsk","<200",1413,314
+"Sea of Okhotsk",">1000",1696,223
+"Sea of Okhotsk","200-1000",605,278
+"Seto Naikai or Inland Sea","<200",56690,581
+"Singapore Strait","<200",930,474
+"Skagerrak","<200",263765,1740
+"Skagerrak","200-1000",27666,843
+"Solomon Sea","<200",3910,1560
+"Solomon Sea",">1000",6062,578
+"Solomon Sea","200-1000",5037,1305
+"South Atlantic Ocean","<200",189913,9350
+"South Atlantic Ocean",">1000",216038,5966
+"South Atlantic Ocean","200-1000",46887,4604
+"South China Sea","<200",39195,3560
+"South China Sea",">1000",46531,892
+"South China Sea","200-1000",4842,1120
+"South Pacific Ocean","",121,37
+"South Pacific Ocean","<200",572840,11663
+"South Pacific Ocean",">1000",323729,8802
+"South Pacific Ocean","200-1000",197606,8921
+"Southern Ocean","<200",35187,2776
+"Southern Ocean",">1000",108865,3643
+"Southern Ocean","200-1000",104688,4017
+"Strait of Gibraltar","<200",95,50
+"Strait of Gibraltar","200-1000",108,72
+"Sulu Sea","<200",3299,1332
+"Sulu Sea",">1000",1029,360
+"Sulu Sea","200-1000",1450,463
+"Tasman Sea","<200",257720,9815
+"Tasman Sea",">1000",29320,3160
+"Tasman Sea","200-1000",31424,4008
+"The Coastal Waters of Southeast Alaska and British Columbia","<200",68071,2677
+"The Coastal Waters of Southeast Alaska and British Columbia",">1000",3,3
+"The Coastal Waters of Southeast Alaska and British Columbia","200-1000",5865,564
+"The Northwestern Passages","<200",7002,607
+"The Northwestern Passages",">1000",1,1
+"The Northwestern Passages","200-1000",9004,212
+"Timor Sea","<200",19103,2324
+"Timor Sea",">1000",640,83
+"Timor Sea","200-1000",346,170
+"Tyrrhenian Sea","<200",7630,1186
+"Tyrrhenian Sea",">1000",9504,572
+"Tyrrhenian Sea","200-1000",2488,396
+"White Sea","<200",122498,873
+"White Sea","200-1000",8366,298
+"Yellow Sea","<200",36032,1467
