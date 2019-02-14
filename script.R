@@ -6,7 +6,7 @@ areas <- fromJSON("https://api.obis.org/area")$results %>%
   mutate(id = as.numeric(id)) %>%
   select(areaid = id, areaname = name)
 
-sp <- read.csv("woa_2.csv")
+sp <- read.csv("woa.csv")
 
 stats <- sp %>%
   group_by(speciesid, subphylumid, areaid, depth) %>%
